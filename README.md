@@ -1,1 +1,1 @@
-# Simple_Hnagman_Game
+# Simple_Hangman_Game
